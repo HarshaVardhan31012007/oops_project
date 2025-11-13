@@ -59,7 +59,7 @@ PORT=5000
 FRONTEND_URL=http://localhost:3000
 ```
 
-#### Frontend `.env` (optional)
+#### Frontend `.env` 
 ```env
 REACT_APP_STRIPE_PUBLISHABLE_KEY=pk_test_your_stripe_publishable_key
 ```

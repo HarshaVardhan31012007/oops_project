@@ -66,7 +66,7 @@ REACT_APP_STRIPE_PUBLISHABLE_KEY=pk_test_your_stripe_publishable_key
 
 ---
 
-### 4. Seed the Database (Optional)
+### 4. Seed the Database
 If your project includes sample data:
 ```bash
 cd backend
